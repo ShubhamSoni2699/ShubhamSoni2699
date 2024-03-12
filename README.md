@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/assets/github-header-image.png"  />
+  <img width="100%" src="./public/assets/github-header-image.png"  />
 </div>
 
 # 💫 About Me:

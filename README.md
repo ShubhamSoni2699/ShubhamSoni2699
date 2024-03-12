@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./public/assets/github-header-image.png"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Document management system<br>👯 I’m looking to collaborate on Webdev projects<br>🌱 I’m currently learning React<br>⚡ Fun fact I am a mechanical engineer
 
